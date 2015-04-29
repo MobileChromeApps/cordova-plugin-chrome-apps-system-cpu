@@ -13,8 +13,8 @@
 
   <name>Chrome System CPU API</name>
   <keywords>chrome,system,cpu</keywords>
-  <repo>https://github.com/MobileChromeApps/mobile-chrome-apps.git</repo>
-  <issue>https://github.com/MobileChromeApps/mobile-chrome-apps/issues</issue>
+  <repo>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-cpu.git</repo>
+  <issue>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-cpu/issues</issue>
 
   <js-module src="system.cpu.js" name="system.cpu">
     <clobbers target="chrome.system.cpu" />
