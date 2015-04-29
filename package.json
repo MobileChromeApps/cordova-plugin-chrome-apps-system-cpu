@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-chrome-apps-system-cpu",
+  "version": "1.1.1-dev",
+  "description": "This plugin provides the ability to query basic CPU information of the system.",
+  "cordova": {
+    "id": "cordova-plugin-chrome-apps-system-cpu",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-cpu.git"
+  },
+  "keywords": [
+    "chrome",
+    "system",
+    "cpu",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-cpu/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-cpu"
+}
