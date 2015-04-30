@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-chrome-apps-system-cpu",
-  "version": "1.1.1-dev",
+  "version": "1.1.1",
   "description": "This plugin provides the ability to query basic CPU information of the system.",
   "cordova": {
     "id": "cordova-plugin-chrome-apps-system-cpu",

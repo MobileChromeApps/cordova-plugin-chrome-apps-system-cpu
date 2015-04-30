@@ -11,6 +11,10 @@ Stable on Android and iOS.
 The API reference is [here](https://developer.chrome.com/apps/system_cpu).
 
 # Release Notes
+
+## 1.1.1 (April 30, 2015)
+- Renamed plugin to pubilsh to NPM
+
 ## 1.1.0 (October 21, 2014)
 - Added support for iOS
 
